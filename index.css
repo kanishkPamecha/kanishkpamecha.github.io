@@ -148,7 +148,7 @@ nav {
   }
   
   .containercard1 .card:before {
-     
+      content: "";
       position: absolute;
       top: 0;
       left: 0;
@@ -164,7 +164,7 @@ nav {
   }
   
   .containercard1 .card:after {
-      content: "";
+    
       position: absolute;
       top: 30%;
       left: -20%;
